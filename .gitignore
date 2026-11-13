@@ -1,0 +1,5 @@
+firmware/esp32_push/esp32_receiver_config.h
+build/
+*.bin
+*.elf
+*.map
